@@ -2,7 +2,7 @@
 # and the indentation
 magicians = ['alice', 'david', 'carolina']
 for magician in magicians:
-    print magician.title() + ', that was a great trick'
+  print(magician.title() + ', that was a great trick')
 
 # The range function produces a range object
 r = range(1,5)
